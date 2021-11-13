@@ -4184,9 +4184,9 @@ form.f1 button[type="submit"].custom-btn.primary:not(:hover):not(:focus) {
   font-size: 1.2rem;
 }
 #footer .footer__copy {
-  margin-top: 40px;
+  margin-top: 20px;
   line-height: 1.5;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
 }
 #footer .footer__copy:first-child {
   margin-top: 0;
@@ -4282,7 +4282,7 @@ form.f1 button[type="submit"].custom-btn.primary:not(:hover):not(:focus) {
   margin-bottom: -30px;
 }
 .feature__item {
-  margin-bottom: 30px;
+  margin-bottom: 45px;
 }
 .feature__item__ico {
   display: inline-block;
@@ -5768,8 +5768,8 @@ form.f1 button[type="submit"].custom-btn.primary:not(:hover):not(:focus) {
     font-size: 3.5rem;
   }
   #footer {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   #footer.footer--style-2 .site-logo,
   #footer.footer--style-3 .site-logo {
